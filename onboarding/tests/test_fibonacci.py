@@ -1,4 +1,6 @@
+import os, sys
 import pytest
+
 from ..fibonacci import fibonacci_term
 
 
